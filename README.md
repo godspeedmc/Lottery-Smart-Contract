@@ -6,7 +6,7 @@ This is a simple Ethereum smart contract written in Solidity for a lottery game.
 
 ## Contract Details
 
-- **Contract Address:** [Insert Contract Address]
+- **Contract Address:** 0x3d345cce2eab34a1502910c7001654d10af5c176
 - **Solidity Version:** 0.7.0 - 0.9.0
 - **License:** GPL-3.0
 
